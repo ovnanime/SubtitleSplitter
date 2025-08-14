@@ -8,7 +8,7 @@
 - Простой интерфейс с выбором файла и формата.
 
 ## Установка
-1. Скачайте .exe из раздела [Releases](https://github.com/ваш_логин/SubtitleSplitter/releases).
+1. Скачайте .exe из раздела [Releases](https://github.com/ovnanime/SubtitleSplitter/releases).
 2. Для запуска .py установите Python 3.x и зависимости: 
 pip install tk
 
